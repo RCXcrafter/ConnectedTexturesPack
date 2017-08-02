@@ -1,7 +1,11 @@
 {
     "ctm":{
         "ctm_version": 1,
+        "type":"CTM",
         "layer":"CUTOUT",
+        "textures":[
+            "minecraft:blocks/redstone_block_glow_2_ctm"
+        ],
         "extra": {
             "light": 11
         }

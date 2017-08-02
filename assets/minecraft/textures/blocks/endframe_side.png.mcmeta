@@ -1,10 +1,7 @@
 {
     "ctm":{
         "ctm_version": 1,
-        "type":"CTM",
-        "textures":[
-            "minecraft:blocks/endframe_side_ct"
-        ],
+        "type":"CTMH",
         "extra":{
         	"ignore_states":"true"
         }
